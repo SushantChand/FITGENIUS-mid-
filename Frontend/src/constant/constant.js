@@ -1,0 +1,1 @@
+export const default_ip_address = 'http:/192.168.18.23:4000'
